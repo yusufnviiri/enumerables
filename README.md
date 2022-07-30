@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enumerables
 
 This repository is dedicated to our project in which we created a custom enumerable list using Ruby 
@@ -5,6 +6,15 @@ This repository is dedicated to our project in which we created a custom enumera
 ## Built With
 * Ruby
 
+=======
+# enumerables
+
+In this project,we created an enumerable list using ruby 
+
+## Built With
+* Ruby
+***
+>>>>>>> e40791cc38dc0221da1a23d9c01456c63d97d729
 ## Getting Started
 
 Clone the repository to get a local copy
@@ -12,6 +22,7 @@ Clone the repository to get a local copy
 ### Prerequisites
 * Ruby
 
+<<<<<<< HEAD
 ## Setup
 
 Clone the repo locally on your machine by typing the following commands in your terminal/Command Prompt
@@ -24,6 +35,10 @@ Clone the repo locally on your machine by typing the following commands in your 
 
 👤 **Yusuf Nviiri**
 
+=======
+## Authors
+## 👤 Yusuf Nviiri
+>>>>>>> e40791cc38dc0221da1a23d9c01456c63d97d729
 - GitHub: [@yusufnviiri](https://github.com/yusufnviiri)
 - Twitter: [@YNviiri](https://twitter.com/YNviiri)
 - LinkedIn: [yusufnviiri]( https://www.linkedin.com/in/yusuf-nviiri-8b4146206/)
@@ -55,4 +70,8 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
+<<<<<<< HEAD
 This project is [MIT](./MIT.md) licensed.
+=======
+This project is [MIT](./MIT.md) licensed.
+>>>>>>> e40791cc38dc0221da1a23d9c01456c63d97d729
