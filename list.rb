@@ -14,6 +14,7 @@ module MyEnumerable
   def filter?
     list = []
     each { |x| list << x if yield(x) }
+
     list
   end
 end
